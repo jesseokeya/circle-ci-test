@@ -1,0 +1,20 @@
+{
+  "name": "circle-ci",
+  "version": "1.0.0",
+  "description": "a simple circle ci implementation",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "circle-ci",
+    "javascript",
+    "nodejs",
+    "jest"
+  ],
+  "author": "Jesse Okeya",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
